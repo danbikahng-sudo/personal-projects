@@ -23,7 +23,7 @@ Bucket Item Template.md       ← DB 항목 상세 페이지 템플릿 (복붙�
    - CSV만 따로 넣고 싶으면 Import → **CSV**로 `All Bucket List.csv`를 올리면 됨.
 3. 데이터베이스 이름을 `01. All Bucket List`로 바꾸고, 하위 페이지 순서를 00 → 04로 정렬.
 
-> CSV에는 대화에서 나온 항목 8개만 들어 있음. 나머지 73개 항목은 CSV에 행을 추가하거나 Notion에 바로 입력하면 됨.
+> CSV에 73개 항목이 모두 들어 있음. Priority·Target Year·Status는 초안으로 배정한 값이니 자유롭게 수정. `No` 열은 원래 번호(1~73) — Number 유형으로 바꾸면 정렬에 사용 가능.
 
 ## Step 2. 속성 유형 바꾸기
 
@@ -57,7 +57,7 @@ CSV로 가져오면 대부분 Text로 들어오므로, 각 열 머리글 → **E
 | Health & Body | Red |
 | Surfing & Outdoor | Teal 계열 → Notion에 Teal이 없으므로 **Blue**와 겹치지 않게 **Brown** 또는 Default 추천 |
 | Travel & Experiences | Purple |
-| Intellectual Growth | Yellow |
+| Intellectual & Personal Growth | Yellow |
 | Taste & Lifestyle | Pink |
 | Love & Relationships | Orange |
 | Freedom & Life Design | Gray |

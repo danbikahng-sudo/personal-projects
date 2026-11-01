@@ -1,6 +1,7 @@
 # BEFORE 40
 
 **A Life Worth Living.**
+40살이 되기 전에 경험하고, 이루고, 누리고 싶은 것들.
 2027 — 2033 · My personal bucket list
 
 > This is not a to-do list. This is a list of things that make life worth living.
